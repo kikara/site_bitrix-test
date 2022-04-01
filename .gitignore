@@ -1,4 +1,7 @@
 .idea/
+bitrix/managed_cache/
+bitrix/cache/
+*.log
 
 
 
