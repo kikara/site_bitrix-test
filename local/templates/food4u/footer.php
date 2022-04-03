@@ -1,10 +1,10 @@
 <footer class="footer footer__back">
     <div class="footer__container">
         <div class="footer__policy">
-            <a href="/"><img src="./img/svg/footer_logo.svg" alt="Food4u" class="header__logo-pic"></a>
+            <a href="/"><img src="<?=SITE_TEMPLATE_PATH?>/images/footer_logo.svg" alt="Food4u" class="header__logo-pic"></a>
             <div class="footer__text">
-Все права защещены, информация предоставленна исключительно в ознакомительных целях.<br>
-Если кто-то отравился — мы тут не виноваты!
+                Все права защещены, информация предоставленна исключительно в ознакомительных целях.<br>
+                Если кто-то отравился — мы тут не виноваты!
             </div>
         </div>
         <div class="footer__blog">
@@ -35,10 +35,10 @@
     <div class="row footer__info">
         <div class="footer__media">
             <div class="footer__media-title">Будем на связи</div>
-            <a href="#" class="footer__media-item"><img src='img/svg/insta_logo.svg'></a>
-            <a href="#" class="footer__media-item"><img src='img/svg/vk_logo.svg'></a>
-            <a href="#" class="footer__media-item"><img src='img/svg/youtube_logo.svg'></a>
-            <a href="#" class="footer__media-item"><img src='img/svg/pinterest_logo.svg'></a>
+            <a href="#" class="footer__media-item"><img src='<?=SITE_TEMPLATE_PATH?>/images/insta_logo.svg'></a>
+            <a href="#" class="footer__media-item"><img src='<?=SITE_TEMPLATE_PATH?>/images/vk_logo.svg'></a>
+            <a href="#" class="footer__media-item"><img src='<?=SITE_TEMPLATE_PATH?>/images/youtube_logo.svg'></a>
+            <a href="#" class="footer__media-item"><img src='<?=SITE_TEMPLATE_PATH?>/images/pinterest_logo.svg'></a>
         </div>
         <div class="footer__info-title">7000+ рецептов</div>
         <div class="footer__info-title">532 автора</div>
